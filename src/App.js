@@ -13,24 +13,21 @@ function App() {
  </header>
 <h1>Piaic Offering Best Following Courses</h1>
           <center>
-          <fieldset>
-          <legend>
+          <fieldset><legend>
           <b><i>
           <font color="grey">Piaic Offering</font>
-          </i></b>
-          </legend>
-          <h2><font color="darkblue">
-          The Best Four Computer Courses Free
-          </font></h2>
+          </i></b></legend>
+          <h4><font color="darkblue">
+          Artifical Intelligence
+          <br />
+          Native Cloud Computing
+          <br />
+          Blockchain
+          <br />
+          Internet of Things
+          </font></h4>
           </fieldset>
           </center>
-          <tl><center> 
-          <li><font color="darkblue">Artificial Intelligence</font></li>
-          <li><font color="darkblue">Native Cloud Computing</font></li>
-          <li><font color="darkblue">Blockchain</font></li>
-          <li><font color="darkblue">Internet of Things</font></li>
-          </center></tl>
-<br></br>
 <center>
           <h4><font color="#bada55">
           Created by:</font> <font color="#beg">Javed Hussain</font></h4>
