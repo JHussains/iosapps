@@ -13,25 +13,9 @@ function App() {
  </header>
 <h1>Piaic Offering Best Following Courses</h1>
           <center>
-          <fieldset><legend>
-          <b><i>
-          <font color="grey">Piaic Offering</font>
-          </i></b></legend>
-          <h4><font color="darkblue">
-          Artifical Intelligence
-          <br />
-          Native Cloud Computing
-          <br />
-          Blockchain
-          <br />
-          Internet of Things
-          </font></h4>
-          </fieldset>
+          <fieldset><legend>Piaic Offering</legend></fieldset>
+          <h4>Created by:Javed Hussain</h4>
           </center>
-<center>
-          <h4><font color="#bada55">
-          Created by:</font> <font color="#beg">Javed Hussain</font></h4>
-</center>
 </div>
 
     );
